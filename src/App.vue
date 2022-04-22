@@ -89,20 +89,15 @@ export default {
 
   data() {
     return {
-      "mission_slug": "001",
+      "mission_slug": "000",
       "current_md": "",
       "events": "",
       "missions": [
         {
           "slug": "000",
-          "name": "Prelude",
-          "status": "success"
+          "name": "???",
+          "status": "start"
         },
-        {
-         "slug": "001",
-         "name": "Unregulated Scrap",
-         "status": "start"
-       },
       ],
       "pilots": [
         {
@@ -111,7 +106,7 @@ export default {
           "code": "???",
           "corpro": "RKF",
           "frame": "Orchis",
-          "mech": "CATTAIL",
+          "mech": "Cattail",
         },
         {
           "callsign": "Steelwing",
@@ -125,7 +120,7 @@ export default {
           "callsign": "BUZZARD",
           "alias": "Maria Smith",
           "code": "//???",
-          "corpro": "HORUS",
+          "corpro": "???",
           "frame": "Gorgon",
           "mech": "Foxglove"
         },
@@ -148,14 +143,14 @@ export default {
       ],
       "header": {
         "planet": "???",
-        "year": "5014u",
-        "system": "Ardennes-3",
-        "gate": "Atlas-Ouanoukrim",
-        "ring": "Atlas-Line",
-        "headerTitle": "DoJ/HR",
-        "headerSubtitle": "Union Auxillary Unit A42",
-        "subheaderTitle": "Peacekeepers",
-        "subheaderSubtitle": "Mechanized Cavalry",
+        "year": "???",
+        "system": "???",
+        "gate": "???",
+        "ring": "???",
+        "headerTitle": "???",
+        "headerSubtitle": "NERF 8",
+        "subheaderTitle": "???",
+        "subheaderSubtitle": "???",
       },
       "options":{
         "eventsMarkdownPerMission": true
