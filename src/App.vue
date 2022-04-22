@@ -106,49 +106,49 @@ export default {
       ],
       "pilots": [
         {
-          "callsign": "Chariot",
-          "alias": "Jóhanna Landon",
-          "code": "//Landon.Jóhanna:b722b21d-cc41-4792-9d7a-a36d6b5a45d8//NDL-C-OMEGA-CRYSTAL",
-          "corpro": "HA",
-          "frame": "Sagarmatha",
-          "mech": "Forward Without Fear"
+          "callsign": "Kestrel",
+          "alias": "Lieveke S. Branche II",
+          "code": "???",
+          "corpro": "RKF",
+          "frame": "Orchis",
+          "mech": "CATTAIL",
         },
         {
-          "callsign": "Carolina",
-          "alias": "Dr. Lyra Vickers Jr.",
-          "code": "//Vickers.Lyra:f6188940-66f2-4630-9baf-d04296bd0847//NDL-C-BLACK-ROSE",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Ozymandias, King of Kings"
-        },
-        {
-          "callsign": "Strideshaker",
-          "alias": 'Coralie "Coral" Richelieu',
-          "code": "//Richelieu.Coralie:2770c0df-4ef4-47d6-afab-a77eccc7a71f//NDL-C-DELTA-STELE",
-          "corpro": "SSC",
-          "frame": "Everest",
-          "mech": "Earthquaker"
-        },
-        {
-          "callsign": "Baron",
-          "alias": "Trine of the 12th Chalice",
-          "code": "//12th.Chalice.Trine:0260f49a-7d11-4858-94e5-7f897855a53f//NDL-C-FIRST-DECEMBER",
+          "callsign": "Steelwing",
+          "alias": "Selene Lightoller.",
+          "code": "???",
           "corpro": "IPS-N",
-          "frame": "Sagarmatha",
-          "mech": "Worst of All Possible Worlds"
+          "frame": "CALIBAN",
+          "mech": "Speak Softly",
         },
         {
-          "callsign": "Vixie",
-          "alias": "Vinessa",
-          "code": "//Vinessa:0fe170f0-5054-4af3-a9c4-df922b5db73a//NDL-C-FALLEN-DREAM",
+          "callsign": "BUZZARD",
+          "alias": "Maria Smith",
+          "code": "//???",
+          "corpro": "HORUS",
+          "frame": "Gorgon",
+          "mech": "Foxglove"
+        },
+        {
+          "callsign": "Architect",
+          "alias": "Beatrice",
+          "code": "???",
           "corpro": "SSC",
-          "frame": "Everest",
-          "mech": "Clementine"
+          "frame": "MetalMark",
+          "mech": "TimeTable",
+        },
+        {
+          "callsign": "Gemini",
+          "alias": "Gerald Wattson",
+          "code": "//??",
+          "corpro": "HORUS",
+          "frame": "Minotuar",
+          "mech": "Rakan",
         },
       ],
       "header": {
-        "planet": "Hercynia",
-        "year": "5014u/499ay",
+        "planet": "???",
+        "year": "5014u",
         "system": "Ardennes-3",
         "gate": "Atlas-Ouanoukrim",
         "ring": "Atlas-Line",
