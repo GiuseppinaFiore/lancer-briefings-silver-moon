@@ -107,7 +107,7 @@ export default {
       "pilots": [
         {
           "callsign": "Kestrel",
-          "alias": "Lieveke S. Branche II",
+          "alias": "Baroness Lieveke II-Branche of the House of Stone",
           "code": "???",
           "corpro": "RKF",
           "frame": "Orchis",
@@ -115,7 +115,7 @@ export default {
         },
         {
           "callsign": "Steelwing",
-          "alias": "Selene Lightoller.",
+          "alias": "Selene Lightoller",
           "code": "???",
           "corpro": "IPS-N",
           "frame": "CALIBAN",
