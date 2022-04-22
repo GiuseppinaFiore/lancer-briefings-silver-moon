@@ -126,8 +126,8 @@ export default {
         },
         {
           "callsign": "Architect",
-          "alias": "Beatrice",
-          "code": "???",
+          "alias": "Beatrice Vallois",
+          "code": "//Vallois.Beatrice:fe2b0e56-39dc-49c0-a329-2486400cbeff//NDL-C-FIFTH-DREAM",
           "corpro": "SSC",
           "frame": "MetalMark",
           "mech": "TimeTable",
@@ -135,8 +135,8 @@ export default {
         {
           "callsign": "Gemini",
           "alias": "Gerald Wattson",
-          "code": "//??",
-          "corpro": "HORUS",
+          "code": "//Wattson.Gerald:7466bbe0-b1a6-4314-8a05-ca2185858732//NDL-C-DEEP-EYE",
+          "corpro": "???",
           "frame": "Minotuar",
           "mech": "Rakan",
         },
