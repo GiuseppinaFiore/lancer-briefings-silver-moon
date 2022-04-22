@@ -24,7 +24,7 @@
     <section class="section-container" id="events" style="width:435px; height:714px;">
       <div class="section-header clipped-medium-backward">
         <img src="/icons/events-icon.svg" />
-        <h1>Events Log</h1>
+        <h1>Event Log</h1>
       </div>
       <div class="section-content-container">
         <Markdown :source="events" class="markdown" />
@@ -94,63 +94,68 @@ export default {
       "events": "",
       "missions": [
         {
-          "slug": "001",
-          "name": "Bug-Hunt",
-          "status": "start"
+          "slug": "000",
+          "name": "Prelude",
+          "status": "success"
         },
+        {
+         "slug": "001",
+         "name": "Unregulated Scrap",
+         "status": "start"
+       },
       ],
       "pilots": [
         {
-          "callsign": "Jinzo",
-          "alias": "Shayan Arsenal",
-          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Type - Worst Beat"
+          "callsign": "Chariot",
+          "alias": "Jóhanna Landon",
+          "code": "//Landon.Jóhanna:b722b21d-cc41-4792-9d7a-a36d6b5a45d8//NDL-C-OMEGA-CRYSTAL",
+          "corpro": "HA",
+          "frame": "Sagarmatha",
+          "mech": "Forward Without Fear"
         },
         {
-          "callsign": "Kal",
-          "alias": "Vier Flau",
-          "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
+          "callsign": "Carolina",
+          "alias": "Dr. Lyra Vickers Jr.",
+          "code": "//Vickers.Lyra:f6188940-66f2-4630-9baf-d04296bd0847//NDL-C-BLACK-ROSE",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Necrophile"
+          "mech": "Ozymandias, King of Kings"
         },
         {
-          "callsign": "Starboard",
-          "alias": "Maria",
-          "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
-          "corpro": "GMS",
+          "callsign": "Strideshaker",
+          "alias": 'Coralie "Coral" Richelieu',
+          "code": "//Richelieu.Coralie:2770c0df-4ef4-47d6-afab-a77eccc7a71f//NDL-C-DELTA-STELE",
+          "corpro": "SSC",
           "frame": "Everest",
-          "mech": "Scarlet Judicator"
+          "mech": "Earthquaker"
         },
         {
-          "callsign": "Badlands",
-          "alias": "Marlene Gatsby",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Mayfly"
+          "callsign": "Baron",
+          "alias": "Trine of the 12th Chalice",
+          "code": "//12th.Chalice.Trine:0260f49a-7d11-4858-94e5-7f897855a53f//NDL-C-FIRST-DECEMBER",
+          "corpro": "IPS-N",
+          "frame": "Sagarmatha",
+          "mech": "Worst of All Possible Worlds"
         },
         {
-          "callsign": "Compadre",
-          "alias": 'Clint "CC" Cruz',
-          "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
-          "corpro": "GMS",
+          "callsign": "Vixie",
+          "alias": "Vinessa",
+          "code": "//Vinessa:0fe170f0-5054-4af3-a9c4-df922b5db73a//NDL-C-FALLEN-DREAM",
+          "corpro": "SSC",
           "frame": "Everest",
-          "mech": "Rio Bravo"
+          "mech": "Clementine"
         },
       ],
       "header": {
         "planet": "Hercynia",
-        "year": "5014u",
+        "year": "5014u/499ay",
         "system": "Ardennes-3",
-        "gate": "Atlas-Quanokrim",
+        "gate": "Atlas-Ouanoukrim",
         "ring": "Atlas-Line",
-        "headerTitle": "Mirrorsmoke",
-        "headerSubtitle": "Mercenary Company",
-        "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
+        "headerTitle": "DoJ/HR",
+        "headerSubtitle": "Union Auxillary Unit A42",
+        "subheaderTitle": "Peacekeepers",
+        "subheaderSubtitle": "Mechanized Cavalry",
       },
       "options":{
         "eventsMarkdownPerMission": true
