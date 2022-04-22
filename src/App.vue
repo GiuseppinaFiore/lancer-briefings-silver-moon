@@ -103,7 +103,7 @@ export default {
         {
           "callsign": "Kestrel",
           "alias": "Baroness Lieveke II-Branche of the House of Stone",
-          "code": "???",
+          "code": "//Branche.Lieveke:ec5f9771-9d35-4f95-ab83-d8616275f4da//NDL-C-BLUE-GIFT",
           "corpro": "RKF",
           "frame": "Orchis",
           "mech": "Cattail",
@@ -111,7 +111,7 @@ export default {
         {
           "callsign": "Steelwing",
           "alias": "Selene Lightoller",
-          "code": "???",
+          "code": "//Lightoller.Selene:d8725fba-d5fb-4037-af26-2756b5fd52b4//NDL-C-DEEP-CROSS",
           "corpro": "IPS-N",
           "frame": "CALIBAN",
           "mech": "Speak Softly",
@@ -119,7 +119,7 @@ export default {
         {
           "callsign": "BUZZARD",
           "alias": "Maria Smith",
-          "code": "//???",
+          "code": "//Smith.Maria:a24bcb3b-3880-4060-9906-b228708a1c1c//NDL-C-DARK-ROSE",
           "corpro": "???",
           "frame": "Gorgon",
           "mech": "Foxglove"
