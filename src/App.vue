@@ -117,7 +117,7 @@ export default {
           "mech": "Speak Softly",
         },
         {
-          "callsign": "BUZZARD",
+          "callsign": "Buzzard",
           "alias": "Maria Smith",
           "code": "//Smith.Maria:a24bcb3b-3880-4060-9906-b228708a1c1c//NDL-C-DARK-ROSE",
           "corpro": "???",
