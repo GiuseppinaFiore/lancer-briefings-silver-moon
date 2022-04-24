@@ -148,9 +148,9 @@ export default {
         "gate": "???",
         "ring": "???",
         "headerTitle": "???",
-        "headerSubtitle": "NERF 8",
-        "subheaderTitle": "???",
-        "subheaderSubtitle": "???",
+        "headerSubtitle": "NERF TEAM 8",
+        "subheaderTitle": "Nova Exploration and Retrieval Force",
+        "subheaderSubtitle": "Mechanized Cavalry",
       },
       "options":{
         "eventsMarkdownPerMission": true
