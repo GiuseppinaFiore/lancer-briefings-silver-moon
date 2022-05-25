@@ -102,7 +102,7 @@ export default {
       "pilots": [
         {
           "callsign": "Kestrel",
-          "alias": "Lieveke S. Branche II",
+          "alias": "Lieveke Severina Branche II",
           "code": "//Branche.LievekeII:ec5f9771-9d35-4f95-ab83-d8616275f4da//NDL-C-BLUE-GIFT",
           "corpro": "RKF",
           "frame": "Orchis",
