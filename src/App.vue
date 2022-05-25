@@ -106,7 +106,7 @@ export default {
           "code": "//Branche.LievekeII:ec5f9771-9d35-4f95-ab83-d8616275f4da//NDL-C-BLUE-GIFT",
           "corpro": "RKF",
           "frame": "Orchis",
-          "mech": "Cattail",
+          "mech": "La Doña de Fuera",
         },
         {
           "callsign": "Steelwing",
