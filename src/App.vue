@@ -95,7 +95,7 @@ export default {
       "missions": [
         {
           "slug": "000",
-          "name": "???",
+          "name": "OPERATION: SOLSTICE RAIN Pt.1",
           "status": "start"
         },
       ],
@@ -139,10 +139,10 @@ export default {
         "system": "CALCHAS",
         "gate": "RAINER STATION",
         "ring": "CASCADE LINE",
-        "headerTitle": "???",
-        "headerSubtitle": "Mechanized Cavalry",
-        "subheaderTitle": "Nova Exploration and Retrieval Force",
-        "subheaderSubtitle": "Team 8",
+        "headerTitle": "UNS-CV",
+        "headerSubtitle": "Rio Grande",
+        "subheaderTitle": "MECHANIZED CAVALRY",
+        "subheaderSubtitle": "SQUAD BRAVO",
       },
       "options":{
         "eventsMarkdownPerMission": true
