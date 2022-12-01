@@ -1,0 +1,5 @@
+Novice pilot from Samsara Garden, a farming-based space station out in the Rim. The gardens are managed by a mostly unshackled NHP named Ciel, housed in a defunct IPS-N Tortuga shell.
+
+She was born on Harbor 58429, a refueling/repair station managed by IPS-N, which was destroyed by a system failure 16 years prior to her recruitment. Survivors of the accident moved in with the existing population of Samsara Garden, where Iris and many other orphaned children were taken in by an older pair of women. Frequent interactions with Ciel during her youth have influenced much of her way of thinking, and she generally lacks a sense of caution.
+
+She is searching for Menedora Argyris, a traveling lancer who assisted Ciel in regrowing their plants after the Garden's orbit brought them through an electromagnetic phenomena that disrupted the climate control systems. Ciel predicts that they will pass through again within the next few years, and is unsure if the garden is prepared this time. Iris has given herself the mission to either track Menedora down or, failing that, find enough new types of plants to allow Ciel to prepare for the worst.
