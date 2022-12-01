@@ -106,7 +106,7 @@ export default {
           "code": "//Rosenow.Alice:3d4e38d7-e15d-4bf7-a29a-d1256fe408c4//NDL-C-STONE-ROSE",
           "corpro": "GMS",
           "frame": "EVEREST",
-          "mech": "HAEMORRHAGING_MONEY//JETTISONING_FUEL",
+          "mech": "HAEMORRHAGING_MONEY JETTISONING_FUEL",
         },
         {
           "callsign": "SAPLING",
