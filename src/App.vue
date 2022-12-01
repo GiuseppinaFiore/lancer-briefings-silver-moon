@@ -122,7 +122,7 @@ export default {
           "code": "//UNABLE TO RETRIEVE IDENTIFICATION INFO",
           "corpro": "GMS",
           "frame": "EVEREST",
-          "mech": "SAMSARA//ETERNAL WHEEL OF BECOMING",
+          "mech": "SAMSARA, ETERNAL WHEEL OF BECOMING",
         },
         {
           "callsign": "MOONBEAM",
