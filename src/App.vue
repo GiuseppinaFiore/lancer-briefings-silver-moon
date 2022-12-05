@@ -119,7 +119,7 @@ export default {
         {
           "callsign": "SCRAP TAIL",
           "alias": "Dust",
-          "code": "// !ERROR! UNABLE TO RETRIEVE IDENTIFICATION INFO!",
+          "code": "// !ERROR! UNABLE TO RETRIEVE IDENTITY! CREATE NEW ONE? Y/N",
           "corpro": "GMS",
           "frame": "EVEREST",
           "mech": "SAMSARA, ETERNAL WHEEL OF BECOMING",
